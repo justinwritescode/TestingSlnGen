@@ -1,0 +1,10 @@
+/Users/justin/GitHub/TestingSlnGen/Folder2/bin/Debug/netcoreapp3.1/Project2.deps.json
+/Users/justin/GitHub/TestingSlnGen/Folder2/bin/Debug/netcoreapp3.1/Project2.dll
+/Users/justin/GitHub/TestingSlnGen/Folder2/bin/Debug/netcoreapp3.1/Project2.pdb
+/Users/justin/GitHub/TestingSlnGen/Folder2/obj/Debug/netcoreapp3.1/Project2.csproj.AssemblyReference.cache
+/Users/justin/GitHub/TestingSlnGen/Folder2/obj/Debug/netcoreapp3.1/Project2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justin/GitHub/TestingSlnGen/Folder2/obj/Debug/netcoreapp3.1/Project2.AssemblyInfoInputs.cache
+/Users/justin/GitHub/TestingSlnGen/Folder2/obj/Debug/netcoreapp3.1/Project2.AssemblyInfo.cs
+/Users/justin/GitHub/TestingSlnGen/Folder2/obj/Debug/netcoreapp3.1/Project2.csproj.CoreCompileInputs.cache
+/Users/justin/GitHub/TestingSlnGen/Folder2/obj/Debug/netcoreapp3.1/Project2.dll
+/Users/justin/GitHub/TestingSlnGen/Folder2/obj/Debug/netcoreapp3.1/Project2.pdb

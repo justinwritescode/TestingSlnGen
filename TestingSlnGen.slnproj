@@ -1,0 +1,22 @@
+<!--
+ * TestingSlnGen.slnproj
+ * 
+ *   Created: 2023-01-22-04:17:45
+ *   Modified: 2023-01-22-04:17:45
+ * 
+ *   Author: Justin Chase <justin@justinwritescode.com>
+ *   
+ *   Copyright © 2022-2023 Justin Chase, All Rights Reserved
+ *      License: MIT (https://opensource.org/licenses/MIT)
+-->
+
+<Project Sdk="Microsoft.Build.Traversal">
+  <PropertyGroup>
+    <SlnGenFolders>true</SlnGenFolders>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="./Folder1/Project1.csproj" />
+    <ProjectReference Include="./Folder2/Project2.csproj" />
+    <SlnGenSolutionItem Include="./docs/README.md" />
+  </ItemGroup>
+</Project>

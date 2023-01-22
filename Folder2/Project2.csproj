@@ -1,0 +1,17 @@
+<!--
+ * Project1.csproj
+ * 
+ *   Created: 2023-01-22-04:19:59
+ *   Modified: 2023-01-22-04:19:59
+ * 
+ *   Author: Justin Chase <justin@justinwritescode.com>
+ *   
+ *   Copyright © 2022-2023 Justin Chase, All Rights Reserved
+ *      License: MIT (https://opensource.org/licenses/MIT)
+-->
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net7.0;net6.0;net5.0;netcoreapp3.1</TargetFrameworks>
+  </PropertyGroup>
+</Project>

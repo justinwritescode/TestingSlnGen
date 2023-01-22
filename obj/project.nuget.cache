@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJEA9fDODhi74shUi9a05/hthT5u4HivpYY2ssKcWSmDli6t/WFXeMxtXEMbFc54nVJvGm1+M0i743tROr2k7A==",
+  "success": true,
+  "projectFilePath": "/Users/justin/GitHub/TestingSlnGen/TestingSlnGen.slnproj",
+  "expectedPackageFiles": [
+    "/Users/david/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.2/microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
